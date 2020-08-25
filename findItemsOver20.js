@@ -9,7 +9,7 @@ module.exports =function (listItem){
          finalReturn.push(sortedList);
      }
    }
-   console.log(finalReturn)
+  // console.log(finalReturn)
    return finalReturn
  }
 
@@ -23,6 +23,6 @@ module.exports =function (listItem){
              finalReturn.push(sortedList);
          }
      }
-     console.log(finalReturn)
+     //console.log(finalReturn)
      return finalReturn
  }
